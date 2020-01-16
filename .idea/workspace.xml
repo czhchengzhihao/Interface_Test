@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f707e4-c91c-49b9-83fd-c83df2023a3d" name="Default" comment="" />
+    <list default="true" id="d1f707e4-c91c-49b9-83fd-c83df2023a3d" name="Default" comment="接口测试demo">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\BaiduNetdiskDownload\Interface_Test\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -267,12 +277,14 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -286,7 +298,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -467,12 +479,24 @@
       <option name="presentableId" value="Default" />
       <updated>1522557050093</updated>
       <workItem from="1578642941752" duration="4202000" />
-      <workItem from="1579139757144" duration="14000" />
+      <workItem from="1579139757144" duration="198000" />
     </task>
+    <task id="LOCAL-00001" summary="接口测试demo">
+      <created>1579139888448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579139888448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="接口测试demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口测试demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="36" key="#Project_Structure" timestamp="1579139794849">
@@ -487,6 +511,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="486" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1536.920@0.0.1536.920" timestamp="1578645005479" />
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1579139909174">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1579139909174" />
     <state x="499" y="142" key="FileChooserDialogImpl" timestamp="1579139837899">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -511,9 +539,13 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1483" height="284" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1578647148688" />
-    <state x="154" y="19" key="SettingsEditor" timestamp="1579139776363">
+    <state x="154" y="19" key="SettingsEditor" timestamp="1579139962640">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="154" y="19" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1579139776363" />
+    <state x="154" y="19" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1579139962640" />
+    <state x="261" y="129" key="Vcs.Push.Dialog.v2" timestamp="1579139926016">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="261" y="129" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1579139926016" />
   </component>
 </project>
